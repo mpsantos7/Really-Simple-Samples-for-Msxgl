@@ -15,3 +15,5 @@ writesc5.c writes messages to screen5 and allows you to enter your name and rece
 Compile as MSX 2. 
 
 Screen5BigTitle.c write a message with a big font in screen 5.
+
+The scrolls sample needs to copy  the folder content/tile to the project.
