@@ -1,4 +1,4 @@
-Really simple C samples made with the MSXGL Library for MSX computers.
+# Really simple C samples made with the MSXGL Library for MSX computers.
 
 mcu_3sprites.c and mcu_3sprites60degrees.c animate sprites, the former with two sprites at 180 degrees and the latter with three sprites at 60 degrees. 
 Both use trigonometric tables with 31 values.
@@ -17,3 +17,5 @@ Compile as MSX 2.
 Screen5BigTitle.c write a message with a big font in screen 5.
 
 The scrolls sample needs to copy  the folder content/tile to the project.
+
+tile_dungeon.c is more extense, however it is based on the example tdungeon.bas from the book wrote by Raul Portales with a simplified collision detection.
