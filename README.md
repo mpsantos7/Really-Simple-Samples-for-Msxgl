@@ -19,3 +19,4 @@ Screen5BigTitle.c write a message with a big font in screen 5.
 The scrolls sample needs to copy  the folder content/tile to the project.
 
 tile_dungeon.c is more extense, however it is based on the example tdungeon.bas from the book wrote by Raul Portales with a simplified collision detection.
+tile_dungeon2.c features tile collision detection that is faithful to the original in BASIC.
