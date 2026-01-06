@@ -20,3 +20,5 @@ The scrolls sample needs to copy  the folder content/tile to the project.
 
 tile_dungeon.c is more extense, however it is based on the example tdungeon.bas from the book wrote by Raul Portales with a simplified collision detection.
 tile_dungeon2.c features tile collision detection that is faithful to the original in BASIC.
+
+simple_screen2_loader is what the name says. Show a Screen2. Depends on skull_p.h.
